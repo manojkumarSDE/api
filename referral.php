@@ -6,6 +6,6 @@ if($url){
   header('Location: ' . $url);
 }
 
-  echo 'Accedd Denied!';
+  echo 'Access Denied!';
 
 ?>
